@@ -48,30 +48,34 @@ device_name_mapping = {
 
 
 #
-def load_data(week, device_type=None, unique_id=None, change_types=None):
+def load_data(weeks, unique_id=None, device_types=None, change_types=None):
     """
     Load data from the specified file and filter based on the provided parameters.
-    :param week: The week number
-    :param device_type: The device type enum. If None, data from all devices will be loaded
+    :param weeks: The week numbers
     :param unique_id: Optional unique ID to filter data
+    :param device_types: Optional list of device types to filter data. If unique_id is provided, this parameter will be ignored
     :param change_types: Optional list of change types to filter data
     :return: The filtered data
     """
+    logger.info(f'Loading data for weeks: {weeks}')
 
     data = []
+    files = 0
 
-    # Load JSON data from the specified file
-    if device_type is None:
-        for device in Device:
+    if unique_id is not None or device_types is None:
+        device_types = Device.values()
+
+    logger.info(f'Loading data for device types: {device_types}')
+
+    for week in weeks:
+        for device in device_types:
+            logger.info(f'Loading data for week {week} and device {device_name_mapping[device]}')
             data_file = f'data/week_{week}/{device_file_mapping[device]}'
+            files += 1
             with open(data_file, 'r') as file:
                 data.extend(json.load(file))
-    else:
-        data_file = f'data/week_{week}/{device_file_mapping[device_type]}'
-        with open(data_file, 'r') as file:
-            data.extend(json.load(file))
 
-    logger.info(f'Loaded {len(data)} records from "{data_file}"')
+    logger.info(f'Loaded {len(data)} records from {files} files')
 
 
     # Filter data based on unique_id if provided
