@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "664ccaf2821daa24ffb0c21b"
+  },
+  "uniqueId": "F0996D42F27DEE2B",
+  "endpointId": "1",
+  "type": 266,
+  "__v": 0,
+  "assignedProxy": 1
+},
+{
+  "_id": {
+    "$oid": "664ccb0b821daa24ffb0c223"
+  },
+  "uniqueId": "BF5345C99B2C9158",
+  "endpointId": "1",
+  "type": 21,
+  "__v": 0,
+  "assignedProxy": 2
+},
+{
+  "_id": {
+    "$oid": "664de93dda99e70db6b21581"
+  },
+  "uniqueId": "3777E5BB553AC958",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66508d8c03f2298e4aaefa7c"
+  },
+  "uniqueId": "BEFFA77BC3EB39BA",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656114c95ddca240757c124"
+  },
+  "uniqueId": "38C49657E7E18F98",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665614159420d527f24586e2"
+  },
+  "uniqueId": "3085B5B9DD26F4F0",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665b885144521236a9fe7095"
+  },
+  "uniqueId": "D3B3279633467EF9",
+  "endpointId": "1",
+  "type": 269,
+  "assignedProxy": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665b9215bf9d729a4eda6a0"
+  },
+  "uniqueId": "8FD936743762C38A",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665ba2072adfb53966fbe2a"
+  },
+  "uniqueId": "6ACD670FA808ACFF",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665c53a95b5a8d88530a802"
+  },
+  "uniqueId": "13E56C4E1FD98745",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665c5e9ff4547d1bd76a989"
+  },
+  "uniqueId": "39C0AE0A9852E5EE",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666db720de486cd87a15052d"
+  },
+  "uniqueId": "F2BC4B94914341C0",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 0,
+  "__v": 0
+}]

@@ -1,0 +1,2325 @@
+[{
+  "_id": {
+    "$oid": "666f2530a00d25c332da84ac"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560048620"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2614efe6df1ae82bf5ea"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560276204"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2614efe6df1ae82bf5ec"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560276220"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2615efe6df1ae82bf5ef"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560277134"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f27feefe6df1ae82bf5f2"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560766765"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2800efe6df1ae82bf5f5"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560768962"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2802efe6df1ae82bf5f8"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560770052"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2803efe6df1ae82bf5fb"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560771560"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2804efe6df1ae82bf5fe"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560772326"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2805efe6df1ae82bf601"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560773526"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2806efe6df1ae82bf604"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560774328"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2814efe6df1ae82bf607"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560788166"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2816efe6df1ae82bf60a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718560790559"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2982efe6df1ae82bf66a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718561154444"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2986efe6df1ae82bf66d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718561158437"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f29cbefe6df1ae82bf670"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718561227929"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f29d4efe6df1ae82bf673"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718561236225"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f29d6efe6df1ae82bf676"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718561238832"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f29d9efe6df1ae82bf679"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718561241235"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2b2befe6df1ae82bf67f"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718561579930"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2b6fefe6df1ae82bf682"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718561647323"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2b7eefe6df1ae82bf6a3"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718561662296"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2ca2522d0ebdfeb18268"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718561954932"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2ca2522d0ebdfeb1826a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718561954940"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2cf8522d0ebdfeb18273"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718562040061"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f2cfb522d0ebdfeb18276"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718562043843"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f307d522d0ebdfeb1828f"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718562941224"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3082522d0ebdfeb18292"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718562946429"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f309d522d0ebdfeb18295"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718562973342"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f309d522d0ebdfeb18298"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718562973476"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f309d522d0ebdfeb1829b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718562973682"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f309d522d0ebdfeb1829e"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718562973881"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f309e522d0ebdfeb182a1"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718562974043"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f30e9522d0ebdfeb182a4"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718563049153"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f30eb522d0ebdfeb182a7"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718563051017"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f373a522d0ebdfeb182dd"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564666839"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f373e522d0ebdfeb182e0"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564670623"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3745522d0ebdfeb182e3"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564677845"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3746522d0ebdfeb182e6"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564678105"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3748522d0ebdfeb182e9"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564680039"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3748522d0ebdfeb182ec"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564680430"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3748522d0ebdfeb182ef"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564680677"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f3748522d0ebdfeb182f2"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564680930"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f374a522d0ebdfeb182f5"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564682242"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f374b522d0ebdfeb182f8"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718564683828"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f45e4522d0ebdfeb18367"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718568420041"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f45e8522d0ebdfeb1836a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718568424019"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f45ec522d0ebdfeb1836d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718568428223"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f4a8f522d0ebdfeb18385"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718569615270"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666fdb20522d0ebdfeb183a9"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718606624830"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666fe16e522d0ebdfeb183c4"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718608238363"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666fe170522d0ebdfeb183c7"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718608240959"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667045f0522d0ebdfeb183d8"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718633968412"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667045f5522d0ebdfeb183db"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718633973212"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66705668522d0ebdfeb183de"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718638184663"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66705685522d0ebdfeb183ea"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718638213475"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667066b5a24433933b817426"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718642357302"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667066b5a24433933b817428"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718642357317"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667066fe738bcb7f8874c2f4"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718642430827"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667066fe738bcb7f8874c2f6"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718642430846"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667067571b23c3773bbc066a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718642519921"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667067571b23c3773bbc066c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718642519932"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670698c1b23c3773bbc066f"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1718643084328"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6670698d1b23c3773bbc0672"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718643085622"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667069bf1b23c3773bbc067b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718643135392"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667069c31b23c3773bbc067e"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718643139289"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66706a471b23c3773bbc0699"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718643271811"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66706a5d1b23c3773bbc069c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718643293414"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667082671b23c3773bbc071c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718649447276"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667098de1b23c3773bbc0749"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718655198196"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667127ca1b23c3773bbc0779"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718691786811"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667127cb1b23c3773bbc077c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718691787650"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667127d61b23c3773bbc077f"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718691798864"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66715aec1b23c3773bbc0782"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718704876209"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66715f491b23c3773bbc0785"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718705993580"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671689f1b23c3773bbc0788"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718708383235"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671763e1b23c3773bbc078b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718711870428"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671763f1b23c3773bbc078e"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718711871305"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66717e541b23c3773bbc0791"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718713940308"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66717e561b23c3773bbc0794"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718713942106"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66717e561b23c3773bbc0797"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718713942735"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66717e5a1b23c3773bbc079a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718713946113"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66717e5b1b23c3773bbc079d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718713947316"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671a1d21b23c3773bbc07a3"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718723026520"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671bce81b23c3773bbc07d3"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718729960539"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671da66bdfca1e947397f1b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718737510101"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671da66bdfca1e947397f1d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718737510106"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671db5be293c8f16480a447"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718737755752"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671db5be293c8f16480a449"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1718737755758"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671db65e293c8f16480a44c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718737765315"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66728c95e293c8f16480a455"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718783125684"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672ac01e293c8f16480a458"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718791169492"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672e466e293c8f16480a45b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718805606378"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667340d1e293c8f16480a467"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718829265563"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673dc4fe293c8f16480a481"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718869071186"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6674947be293c8f16480a48a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718916219927"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66751dc8e293c8f16480a493"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718951368848"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66753de8e293c8f16480a496"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718959592675"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66753e50e293c8f16480a499"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718959696280"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66753e50e293c8f16480a49c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718959696373"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66753e51e293c8f16480a49f"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718959697025"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66753e5ce293c8f16480a4a2"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718959708883"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66753e5fe293c8f16480a4a5"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718959711682"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675b318e293c8f16480a4b6"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718989592614"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675bff1e293c8f16480a4b9"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718992881295"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675d864e293c8f16480a4bc"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1718999140899"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675f386e293c8f16480a4c2"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719006086967"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675f7a5e293c8f16480a4c5"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719007141990"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66767260e293c8f16480a4cb"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719038560493"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676742ce293c8f16480a4ce"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719039020382"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66767430e293c8f16480a4d1"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719039024457"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66767430e293c8f16480a4d4"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719039024704"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676f148e293c8f16480a4d7"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719071048646"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676f58fe293c8f16480a4da"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719072143459"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66772639e293c8f16480a4e3"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719084601891"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667726a7e293c8f16480a4e6"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719084711107"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667726d3e293c8f16480a4e9"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719084755025"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667729f4e293c8f16480a4ec"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719085556219"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6677325ae293c8f16480a4ef"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719087706447"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6677398ae293c8f16480a4f2"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719089546416"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773ea5e293c8f16480a4f5"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719090853614"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773ea6e293c8f16480a4f8"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719090854815"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773ef9e293c8f16480a4fb"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719090937028"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773ef9e293c8f16480a4fe"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719090937984"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773efde293c8f16480a501"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719090941639"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773effe293c8f16480a504"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719090943264"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f1ee293c8f16480a507"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1719090974883"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f26e293c8f16480a50a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719090982675"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f2de293c8f16480a50d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719090989007"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f36e293c8f16480a510"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719090998123"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f3ce293c8f16480a513"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1719091004247"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f43e293c8f16480a516"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719091011392"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f8ae293c8f16480a532"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1719091082358"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773f8fe293c8f16480a535"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719091087454"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773face293c8f16480a538"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1719091116600"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66773fb2e293c8f16480a53b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719091122773"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667806fce293c8f16480a544"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1719142140625"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667806ffe293c8f16480a547"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719142143967"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66780700e293c8f16480a54a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719142144174"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66780701e293c8f16480a54d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 0,
+  "timestamp": {
+    "$numberLong": "1719142145832"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66780703e293c8f16480a550"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 2,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719142147619"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66785322e293c8f16480a559"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719161634205"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6678532ae293c8f16480a55c"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719161642175"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6678534ae293c8f16480a55f"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719161674662"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6678534ce293c8f16480a562"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719161676292"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6678535ce293c8f16480a568"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719161692974"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66785386e293c8f16480a56e"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 1,
+  "timestamp": {
+    "$numberLong": "1719161734390"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6678538be293c8f16480a571"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719161739291"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667854a9e293c8f16480a589"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719162025981"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66797970348f85ef524ebf4b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719236976042"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66797970348f85ef524ebf4d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719236976314"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66797975348f85ef524ebf50"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719236981056"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66797aab9634d5a6468ff668"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 1,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719237291778"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66797aab9634d5a6468ff66a"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 0,
+  "connectionStatus": 0,
+  "booleanState": false,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719237291814"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66797aac9634d5a6468ff66d"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "changeType": 5,
+  "connectionStatus": 0,
+  "booleanState": true,
+  "privacyState": 2,
+  "timestamp": {
+    "$numberLong": "1719237292512"
+  },
+  "__v": 0
+}]

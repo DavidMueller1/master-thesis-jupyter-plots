@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "666ee7e35833c9f8b064ba0f"
+  },
+  "uniqueId": "39C0AE0A9852E5EE",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 0,
+  "__v": 0,
+  "customName": "Testname"
+},
+{
+  "_id": {
+    "$oid": "666ee8225833c9f8b064ba16"
+  },
+  "uniqueId": "F2BC4B94914341C0",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ef11df120ab86e353be7e"
+  },
+  "uniqueId": "B1844314D756D84B",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 1,
+  "__v": 0,
+  "customName": "Lampe Schlafzimmer"
+},
+{
+  "_id": {
+    "$oid": "666ef7bd925f9e504b0a712b"
+  },
+  "uniqueId": "F7D9D208C65ADE9B",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667072db1b23c3773bbc06c1"
+  },
+  "uniqueId": "BEC8B63351AC02EC",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 2,
+  "__v": 0,
+  "customName": "Lampe Wohnzimmer"
+}]

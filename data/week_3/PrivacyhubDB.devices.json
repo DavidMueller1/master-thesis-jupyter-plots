@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6679acb0c6c74229381fcadb"
+  },
+  "uniqueId": "6E628ADD7E9FB178",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 2,
+  "__v": 0,
+  "customName": "Steckdose Wohnzimmer"
+},
+{
+  "_id": {
+    "$oid": "6679acc4c6c74229381fcae6"
+  },
+  "uniqueId": "29E2D375B84AE67A",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6679ad1571f6f6405d4d81fd"
+  },
+  "uniqueId": "04D7DC521AF6EC84",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 1,
+  "__v": 0
+}]
