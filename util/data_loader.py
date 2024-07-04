@@ -57,12 +57,12 @@ def load_data(weeks, unique_id=None, device_types=None, change_types=None):
     :param change_types: Optional list of change types to filter data
     :return: The filtered data
     """
-    logger.info(f'Loading data for weeks: {weeks}')
+    logger.info(f'Loading data for weeks: {weeks} and device types: {device_types} and unique_id: {unique_id} and change_types: {change_types}')
 
     data = []
     files = 0
 
-    if unique_id is not None or device_types is None:
+    if unique_id is not None or unique_id != '' or device_types is None or len(device_types) == 0:
         device_types = Device.values()
 
     logger.info(f'Loading data for device types: {device_types}')
@@ -79,7 +79,7 @@ def load_data(weeks, unique_id=None, device_types=None, change_types=None):
 
 
     # Filter data based on unique_id if provided
-    if unique_id is not None:
+    if unique_id is not None and unique_id != '':
         data = [item for item in data if item['uniqueId'] == unique_id]
 
     logger.info(f'Filtered data based on unique_id: {len(data)} records remaining')
