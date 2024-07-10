@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "668439e2a51a5edd7010479e"
+  },
+  "uniqueId": "6E628ADD7E9FB178",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 2,
+  "__v": 0,
+  "customName": "Steckdose 1"
+},
+{
+  "_id": {
+    "$oid": "668439eea51a5edd701047a8"
+  },
+  "uniqueId": "29E2D375B84AE67A",
+  "endpointId": "1",
+  "type": 21,
+  "assignedProxy": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66843aacf75e991f04fcb884"
+  },
+  "uniqueId": "04D7DC521AF6EC84",
+  "endpointId": "1",
+  "type": 266,
+  "assignedProxy": 1,
+  "__v": 0,
+  "customName": "Steckdose 2"
+}]
