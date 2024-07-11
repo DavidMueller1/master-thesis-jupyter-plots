@@ -96,3 +96,5 @@ ipython_config.py
 
 #exclude output
 /output
+
+/util
