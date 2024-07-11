@@ -93,3 +93,6 @@ ipython_config.py
 
 # remove venv
 /env
+
+#exclude output
+/output
