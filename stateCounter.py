@@ -32,7 +32,8 @@ def count_privacy_state_changes(data):
     return change_counts
 
 # Load the JSON data from the file
-data = load_json('data/week_4/PrivacyhubDB.onoffpluginunitstates.json')
+# data = load_json('data/week_4/PrivacyhubDB.onoffpluginunitstates.json')
+data = load_json('data/week_4/PrivacyhubDB.contactsensorstates.json')
 
 # Run the function with the loaded data
 change_counts = count_privacy_state_changes(data)
