@@ -5,6 +5,13 @@ import json
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+PrivacyState = {
+    "LOCAL": 0,
+    "ONLINE": 1,
+    "ONLINE_SHARED": 2
+}
+
+
 Device = {
     "CONTACT_SENSOR": 0,
     "PLUG": 1
